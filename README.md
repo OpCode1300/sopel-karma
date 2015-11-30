@@ -1,2 +1,2 @@
-# sopel-karma
-Sopel IRC bot karma module
+Karma module for Sopel IRC bot.
+
